@@ -16,4 +16,4 @@ You can also use Github Pages
 
 
 # License
-Distributed under the MIT license. See [LICENSE](https://github.com/ardacarofficial/links-website/blob/main/LICENSE "LICENSE") file for more information.
+Distributed under the MIT license. See [LICENSE](https://github.com/RejectModderss/Personal-Website/blob/main/LICENSE "LICENSE") file for more information.
