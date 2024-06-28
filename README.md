@@ -1,6 +1,6 @@
 # Demo
 
-[![Demo](readme.png 'Demo')](readme.png)
+[![Demo](example.png 'Demo')](example.png)
 
 
 # Install
